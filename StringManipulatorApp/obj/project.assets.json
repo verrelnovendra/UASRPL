@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AdvancedStringManipulations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AdvancedStringManipulations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdvancedStringManipulations.dll": {}
+        }
+      },
+      "BasicStringManipulations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BasicStringManipulations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicStringManipulations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedStringManipulations/1.0.0": {
+      "type": "project",
+      "path": "../AdvancedStringManipulations/AdvancedStringManipulations.csproj",
+      "msbuildProject": "../AdvancedStringManipulations/AdvancedStringManipulations.csproj"
+    },
+    "BasicStringManipulations/1.0.0": {
+      "type": "project",
+      "path": "../BasicStringManipulations/BasicStringManipulations.csproj",
+      "msbuildProject": "../BasicStringManipulations/BasicStringManipulations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AdvancedStringManipulations >= 1.0.0",
+      "BasicStringManipulations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\windows 10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\windows 10\\StringManipulatorSolution\\StringManipulatorApp\\StringManipulatorApp.csproj",
+      "projectName": "StringManipulatorApp",
+      "projectPath": "C:\\Users\\windows 10\\StringManipulatorSolution\\StringManipulatorApp\\StringManipulatorApp.csproj",
+      "packagesPath": "C:\\Users\\windows 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\windows 10\\StringManipulatorSolution\\StringManipulatorApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\windows 10\\StringManipulatorSolution\\AdvancedStringManipulations\\AdvancedStringManipulations.csproj": {
+              "projectPath": "C:\\Users\\windows 10\\StringManipulatorSolution\\AdvancedStringManipulations\\AdvancedStringManipulations.csproj"
+            },
+            "C:\\Users\\windows 10\\StringManipulatorSolution\\BasicStringManipulations\\BasicStringManipulations.csproj": {
+              "projectPath": "C:\\Users\\windows 10\\StringManipulatorSolution\\BasicStringManipulations\\BasicStringManipulations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "D:\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

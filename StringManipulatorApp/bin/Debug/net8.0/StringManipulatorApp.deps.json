@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StringManipulatorApp/1.0.0": {
+        "dependencies": {
+          "AdvancedStringManipulations": "1.0.0",
+          "BasicStringManipulations": "1.0.0"
+        },
+        "runtime": {
+          "StringManipulatorApp.dll": {}
+        }
+      },
+      "AdvancedStringManipulations/1.0.0": {
+        "runtime": {
+          "AdvancedStringManipulations.dll": {}
+        }
+      },
+      "BasicStringManipulations/1.0.0": {
+        "runtime": {
+          "BasicStringManipulations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringManipulatorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedStringManipulations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicStringManipulations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

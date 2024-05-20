@@ -1,0 +1,11 @@
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\bin\Debug\net8.0\BasicStringManipulations.deps.json
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\bin\Debug\net8.0\BasicStringManipulations.dll
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\bin\Debug\net8.0\BasicStringManipulations.pdb
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.AssemblyInfoInputs.cache
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.AssemblyInfo.cs
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.dll
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\refint\BasicStringManipulations.dll
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\BasicStringManipulations.pdb
+C:\Users\windows 10\StringManipulatorSolution\BasicStringManipulations\obj\Debug\net8.0\ref\BasicStringManipulations.dll
